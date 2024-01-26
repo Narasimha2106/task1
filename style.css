@@ -1,0 +1,68 @@
+.body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.signup-page .pool-img {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.signup-page {
+    font-family: poppins;
+}
+
+.signup-page .lable {
+    /* display: inline-block; */
+    /* margin-bottom: 15px; */
+}
+
+.heading h1{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600 !important;
+
+}
+
+button {
+    height: 60px;
+    width: 340px;
+    color: #fff;
+    background-color: #007074;
+    border: unset;
+    border-radius: 8px;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.create-button p {
+    color: #4D5959;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+.create-button p span{
+    color: #007074;
+    font-weight: 500;
+}
+
+.create-button h3{
+color: #043133;
+font-size: 26px;
+}
+
+.bottom-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 100%; */
+    font-weight: 500;
+    border: 1px solid #D2D2D2;
+    padding: 6px 16px;
+    gap: 12px;
+    border-radius: 8px;
+}
+.bottom-box p{
+    width: 161px;
+    height: 24px;
+}
